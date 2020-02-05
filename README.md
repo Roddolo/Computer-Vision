@@ -17,5 +17,5 @@ university, where I attended with interest the course of computer vision. As a c
 discussions and results may not be the most accurate ever, but they are meant to demonstrate
 the potential that neural networks can achieve.
 
-All files are available at:\\
+All files are available at:
 https://drive.google.com/open?id=13DiY6tPBseSqWggpqm_ywRRJXHEP5DXe
